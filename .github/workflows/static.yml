@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>𝗔𝗹𝗹 𝗔𝗰𝗰𝗼𝘂𝗻𝘁 𝗦𝗲𝗹𝗹𝗲𝗿 v1.0 App Download</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+  <script src="https://kit.fontawesome.com/a2d9c64a09.js" crossorigin="anonymous"></script>
+  <style>
+    body {
+      font-family: 'Inter', sans-serif;
+    }
+  </style>
+</head>
+<body class="bg-gradient-to-br from-blue-50 to-purple-100 min-h-screen flex flex-col items-center justify-center p-6">
+
+  <div class="bg-white rounded-2xl shadow-2xl p-6 max-w-md w-full text-center">
+    <!-- App Icon -->
+    <img src="https://i.postimg.cc/0yNYXD8V/20250615-151012.png" alt="App Icon" class="mx-auto mb-4">
+
+    <!-- App Title -->
+    <h1 class="text-2xl font-bold text-gray-800 mb-1">𝗔𝗹𝗹 𝗔𝗰𝗰𝗼𝘂𝗻𝘁 𝗦𝗲𝗹𝗹𝗲𝗿</h1>
+    <p class="text-sm text-gray-500 mb-4">Version 1.0</p>
+
+    <!-- App Description -->
+    <p class="text-gray-700 mb-6">💰অ্যাকাউন্ট বিক্রি করে আয় করুন সহজে!💰
+🔥 হাজারো বিক্রেতার প্রথম পছন্দ — 🎀All Account Seller🎀
+📲 এখনই ডাউনলোড করুন আর বাড়িয়ে নিন আপনার ইনকাম 💸!</p>
+
+  
+
+    <!-- Download Button -->
+    <a href="https://apk.e-droid.net/apk/app3614233-rhdmn4.apk?v=2" download
+       class="inline-block bg-blue-600 hover:bg-blue-700 text-white font-semibold py-3 px-6 rounded-xl transition duration-300 ease-in-out shadow-md">
+      <i class="fas fa-download mr-2"></i> Download Now
+    </a>
+  </div>
+
+  <!-- Footer -->
+  <p class="text-sm text-gray-500 mt-6">&copy; 2025 𝗠𝗗 𝗘𝗠𝗢𝗡 𝗦𝗛𝗘𝗜𝗞𝗛. All rights reserved.</p>
+
+</body>
+</html>
